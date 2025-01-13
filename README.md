@@ -1,2 +1,2 @@
 # DIA_PM
-This code is designed for the rapid and accurate analysis of M-mode diaphragmatic ultrasound images. 
+This code is designed for the rapid and accurate analysis of M-mode diaphragmatic ultrasound images. Specifically, it calculates Diaphragmatic excursion (DE), diaphragm contraction duration (DCD), and diaphragm contraction velocity (DCV) in mobility images. Additionally, it computes diaphragmatic thickness at the end of expiration (DTee), diaphragmatic thickness at the end of inspiration (DTei), and diaphragm thickening fraction (DTF) in thickness images.
